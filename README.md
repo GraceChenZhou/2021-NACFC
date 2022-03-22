@@ -1,6 +1,6 @@
-# 2021 North American Cystic Fibrosis Conference (NACFC)
-November 3-5, 2021 | Virtual by Cystic Fibrosis Foundation
-Workshop: W20-CLN: Update on Modulators
+# [2021 North American Cystic Fibrosis Conference (NACFC)](https://www.nacfconference.org/)
+* November 3-5, 2021 | Virtual by Cystic Fibrosis Foundation
+* Workshop: W20-CLN: Update on Modulators
 
 # Abstract
 ## Background
