@@ -15,3 +15,8 @@ Both the change point and modulator indicator yielded significant impacts, M1 wa
 
 ## Conclusions
 The proposed model demonstrated robust predictions, especially for post-HEMT. As a result, it could be further implemented as a point-of-care tool for real-time predictions to the individual CF patient.
+
+## Authors
+
+Grace C. Zhou, Ziyun Wang, Anushka Palipana, Eleni-Rosalina Andrinopoulou, Pedro M. Afonso, Gary L. McPhail, John P. Clancy, Emrah Gecili, Rhonda D. Szczesniak
+
